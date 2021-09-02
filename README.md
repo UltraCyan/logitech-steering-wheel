@@ -1,7 +1,7 @@
 # logitech-steering-wheel
 
 Intended to give force feedback options for the logitech g29 steering wheel.
-This is not a complete python package, just a proof of concept for force feedback in python.
+This is not a complete python package, just a proof of concept for force feedback in python for Windows.
 This is a current work in progress.
 
 # Requirements
